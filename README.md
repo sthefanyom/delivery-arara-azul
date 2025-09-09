@@ -29,9 +29,9 @@ src/
 │ └── ProdutoRepository.ts
 ├── util/
 │ └── Colors.ts
-├── validators/
-│ └── Validacao.ts
-└── index.ts # Menu principal
+├── exceptions/
+│ └── Error.ts
+└── Menu.ts # Menu principal
 
 ---
 
